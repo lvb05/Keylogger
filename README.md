@@ -46,7 +46,7 @@ Press ESC key anytime to stop the logger.
 ## 📂 Sample Output
 
 View the sample log file here:  
-👉 [logs/key_log.txt](https://github.com/lvb05/)
+👉 [logs/key_log.txt](https://github.com/lvb05/Keylogger/blob/main/logs/key_logs.txt)
 
 
 ## 🧠 Why This Project?

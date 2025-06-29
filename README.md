@@ -1,4 +1,4 @@
-# 🧠 Keylogger Simulator (Educational Use Only)
+# 🧠 Keylogger (Educational Use Only)
 
 > ⚠️ This project is intended **only for ethical hacking education** and **cybersecurity awareness**. It does **not** send data over the internet and is **safe to run locally**.
 

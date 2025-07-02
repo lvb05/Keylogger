@@ -13,7 +13,7 @@ This Python-based Keylogger Simulator demonstrates how basic keylogging tools wo
 ## 🚀 Features
 
 - ✅ Captures all keystrokes with timestamps
-- ✅ Automatically writes logs to `logs/key_log.txt`
+- ✅ Automatically writes logs to `logs/key_logs.txt`
 - ✅ Terminates safely when the `ESC` key is pressed
 - ✅ Uses threading to flush logs every 60 seconds
 - ✅ 100% offline – does **not** send data anywhere
@@ -46,7 +46,7 @@ Press ESC key anytime to stop the logger.
 ## 📂 Sample Output
 
 View the sample log file here:  
-👉 [logs/key_log.txt](https://github.com/lvb05/Keylogger/blob/main/logs/key_logs.txt)
+👉 [logs/key_logs.txt](https://github.com/lvb05/Keylogger/blob/main/logs/key_logs.txt)
 
 
 ## 🧠 Why This Project?
